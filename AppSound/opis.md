@@ -9,4 +9,5 @@
   </ul>
 </p>
 
+<h2>Do zrobienia:</h2>
 <p>W skończonej wersji programu dodatkowo wytworzonym dźwiękom zmieniany będzie poziom SNR w celu sprawdzenia zrozumiałości mowy. Następnie użytkownik będzie odtwarzał dźwięk z puli testowej dźwięków z różnym poziomem SNR i wpisywał to co usłyszał a program będzie analizował jego odpowiedzi</p>
