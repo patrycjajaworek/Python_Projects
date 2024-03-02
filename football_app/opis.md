@@ -4,7 +4,7 @@
 <p>Wykorzystano technologie takie jak:
   <ul>
       <li> Python jak główny język aplikacji
-      <li> Footbal-data Api jako bazę danych: https://www.football-data.org/
+      <li> Footbal-data Api jako bazę danych: https://www.football-data.org/ (w wersji podstawowej free)
       <li> Biblioteki do obsługi danych takie jak matplotlib
   </ul>
 </p>
