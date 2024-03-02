@@ -1,5 +1,5 @@
 <h1>Football App</h1>
-<p>W ramach aplikacji po wybraniu dowolnej drużyny piłkarskiej z ligi angielskiej (numer_id oraz nazwa klubu) dostaniemy informację kiedy rozegrał się mecz każdej kolejki oraz zostanie przedstawiony wykres ukazujący na przestrzeni rozegranych kolejek formę drużyny(wygrana,remis,przegrana). Program ten pozwala na prostą analizę formy danej drużyny</p>
+<p>W ramach aplikacji po wybraniu dowolnej drużyny piłkarskiej z ligi angielskiej (numer_id oraz nazwa klubu) dostaniemy informację kiedy rozegrał się mecz każdej kolejki oraz zostanie przedstawiony wykres ukazujący na przestrzeni rozegranych kolejek formę drużyny (wygrana, remis, przegrana). Program ten pozwala na prostą analizę formy danej drużyny.</p>
 
 <p>Wykorzystano technologie takie jak:
   <ul>
