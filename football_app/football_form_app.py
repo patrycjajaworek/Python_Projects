@@ -184,5 +184,4 @@ print(team_info['id'])
 print(team_info['team_name'])
 
 
-#get_teams()
 
