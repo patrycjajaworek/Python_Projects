@@ -164,13 +164,24 @@ def plot_form_chart(matches_data, team_name_is):
             continue
 
     plt.figure(figsize=(15, 6))
-    plt.plot(matchdays, results, marker='o', linestyle='-', color='b')
+
+    plt.plot(matchdays, results, marker='o', linestyle='-', color='b', label='Wyniki meczów')
+    colors = ['green' if result == 2.0 else 'blue' if result == 1.0 else 'red' for result in results]
+    for i in range(len(matchdays)):
+        plt.scatter(matchdays[i], results[i], color=colors[i], s=100)
+
     plt.xticks(matchdays)
     plt.title(f'Wyniki meczów {team_name}')
     plt.xlabel('Kolejka')
     plt.ylabel('Wynik meczu')
     plt.yticks([2.0, 1.0, 0.0], ['Wygrana', 'Remis', 'Porażka'])
     plt.grid(True)
+    plt.legend()
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.ylim(-0.5, 2.5)
+    plt.title(f'Wyniki meczów {team_name}', color='blue')
+    plt.xlabel('Kolejka', color='black')
+    plt.ylabel('Wynik meczu', color='black')
     plt.show()
 
 
