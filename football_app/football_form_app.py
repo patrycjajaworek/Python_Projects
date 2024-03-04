@@ -1,3 +1,9 @@
+"""W ramach aplikacji po wybraniu dowolnej drużyny piłkarskiej z ligi angielskiej
+(numer_id oraz nazwa klubu) dostaniemy informację kiedy rozegrał się mecz każdej kolejki
+oraz zostanie przedstawiony wykres ukazujący na przestrzeni rozegranych kolejek formę drużyny (wygrana, remis, przegrana).
+Program ten pozwala na prostą analizę formy danej drużyny."""
+
+
 import requests
 from difflib import SequenceMatcher
 from datetime import datetime
