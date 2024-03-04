@@ -9,10 +9,19 @@
   </ul>
 </p>
 
+
+
 <h2>Do zrobienia:</h2>
 <ul>
-  <li>Dodanie łatwiejszej opcji wyboru klubu do analizy (docelowo wpisanie nazwy klubu liverpool ma być traktowane jako wpisanie id = 64 oraz Liverpool FC)</li>
   <li>Możliwość analizy wielu klubów naraz i dokonania porównania</li>
-  <li>Rozbudowa o większą ilość lig</li>
+  <li>Rozbudowa o większą ilość lig poza ligą angielską</li>
+  <li>Dodanie nowych opcji typu widok tabeli z punktacją wszystkich klubów</li>
+  <li>Dodanie interfejsu graficznego użytkownika w celu ułatwienia użytkowania aplikacji</li>
+</ul>
+
+<h2>Zrobione:</h2>
+<ul>
+  <li>Dodanie łatwiejszej opcji wyboru klubu do analizy (docelowo wpisanie nazwy klubu liverpool ma być traktowane jako wpisanie id = 64 oraz Liverpool FC)</li>
   <li>Łatwiejsze wydobycie informacji jaki zespół ma jakie id w danym API</li>
 </ul>
+
