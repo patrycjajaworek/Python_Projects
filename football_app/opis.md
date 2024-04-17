@@ -10,6 +10,7 @@
 </p>
 
 <h2>Przykładowe działanie aplikacji:</h2>
+![Wykres formy](wykres_formy.jpg)
 
 <h2>Do zrobienia:</h2>
 <ul>
